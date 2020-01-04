@@ -1,7 +1,7 @@
 
 h1 {
     font-family: 'Pinyon Script', cursive;
-    margin-left: 30%;
+    margin-left: 40%;
     margin-top: 30px;
     color: #e24280;
 }
@@ -21,7 +21,13 @@ button {
 }
 
 body {
-    background-image: url("assets/images/disneyprincesses.png");
-    background-size: 100%;
+    background-image: url(../images/disneyprincesses.jpg);
+    background-size: 75%;
     background-repeat: no-repeat;
+    background-position: right bottom;
+    
+
+}
+
+    
 }
