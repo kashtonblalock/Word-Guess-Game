@@ -3,7 +3,7 @@ h1 {
     font-family: 'Pinyon Script', cursive;
     margin-left: 30%;
     margin-top: 30px;
-    color: #4864c1;
+    color: #e24280;
 }
 
 h2 {
@@ -14,14 +14,14 @@ h2 {
 }
 
 button {
-    font-family: 'Sigmar One', cursive;
+    font-family: 'Cute Font', cursive;
     margin: 10px;
     color: #ffffff;
-    background-color: green;
+    background-color: rgb(165, 85, 159);
 }
 
 body {
-    background-image: url(../images/star-wars-background-full-hd-459613.jpg);
+    background-image: url("assets/images/disneyprincesses.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
